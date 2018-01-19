@@ -1,4 +1,9 @@
 Cold and dry but everything is sulfate
 The two moons may be a problem for Wolfman
+<<<<<<< HEAD
 but good that it lacks humidity
-this line is added by sara 1 to show conflict
+
+
+
+This line is added by Alice to show an example of conflict. I delete the previous line too.
+>>>>>>> efc58de1cc90037ef72a8d3cb0c1320680f6d2c6
