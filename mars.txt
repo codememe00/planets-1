@@ -1,5 +1,7 @@
 Cold and dry but everything is sulfate
 The two moons may be a problem for Wolfman
-
+<<<<<<< HEAD
+but good that it lacks humidity
 This line is added by Alice to show an example of conflict. I delete the previous line too.
 And now Alice adds the second line lalala
+Alice merged the file. This is the 7th line
